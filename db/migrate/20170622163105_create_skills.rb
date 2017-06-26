@@ -1,6 +1,6 @@
-class CreateBlogs < ActiveRecord::Migration[5.1]
+class CreateSkills < ActiveRecord::Migration[5.1]
   def change
-    create_table :blogs do |t|
+    create_table :skills do |t|
       t.string :title
       t.integer :percent_utilized
 
