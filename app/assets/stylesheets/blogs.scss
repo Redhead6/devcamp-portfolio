@@ -2,13 +2,18 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-html{
-    height: 100%;
-}
-
-body{
-    background: linear-gradient(to bottom right, #ff0000 , #ff8300 , #fcf802 , #01fc06 , #000cff , #7f00ff , #ae00ff );
-    color: #ffffff;
-    font-family: "Jazz Script";
-    height: 100%;
-}
+    html{
+        height: 100%;
+    }
+    
+        body{
+            background: url("http://vignette2.wikia.nocookie.net/survivor-org/images/b/b3/PT_Ravenclaw_Crest_by_threevoices.jpg/revision/latest?cb%5Cx3d20130512125956");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-color: #000000;
+            color: #00597a;
+            font-family: "Jazz Script";
+            height: 100%;
+        
+        }
